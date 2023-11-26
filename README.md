@@ -26,8 +26,9 @@ Tutorial 06 : https://github.com/venura449/Tutorial06.git
 Tutorial 07 : https://github.com/venura449/Tutorial07.git  
 Tutorial 08 : https://github.com/venura449/Tutorial08.git    
 
-# Tutorial  2nd SEM
-Tutorial 01 : https://github.com/venura449/Tutorial02.git   
+# Tutorial  2nd SEM   
+Tutorial 01 : https://github.com/venura449/2Tutorial-01.git   
+Tutorial 02 : https://github.com/venura449/Tutorial02.git   
 
 
 

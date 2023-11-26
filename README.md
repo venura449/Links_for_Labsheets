@@ -1,4 +1,4 @@
-# Links_for_Labsheets
+# LabSheets 1st SEM
 LabSheet 01 : https://github.com/venura449/LabSheet01.git  
 LabSheet 02 : https://github.com/venura449/LabSheet02.git  
 LabSheet 03 : https://github.com/venura449/LabSheet03.git  
@@ -8,6 +8,11 @@ Labsheet 06 : https://github.com/venura449/Labsheet06.git
 Labsheet 07 : https://github.com/venura449/LabSheet07.git  
 Labsheet 08 : https://github.com/venura449/LabSheet08.git   
 Labsheet 09 : https://github.com/venura449/Labsheet09.git    
+
+# LabSheets  2nd SEM 
+LabSheet 01 : https://github.com/venura449/2Lab-01.git   
+LabSheet 02 : https://github.com/venura449/LabSheets02.git
+
 
 
 

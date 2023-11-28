@@ -11,7 +11,9 @@ Labsheet 09 : https://github.com/venura449/Labsheet09.git
 
 # LabSheets  2nd SEM 
 LabSheet 01 : https://github.com/venura449/2Lab-01.git   
-LabSheet 02 : https://github.com/venura449/LabSheets02.git
+LabSheet 02 : https://github.com/venura449/LabSheets02.git    
+LabSheet 03 : https://github.com/venura449/2Labsheet-03.git    
+
 
 
 

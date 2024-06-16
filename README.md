@@ -17,8 +17,8 @@ LabSheet 04 : https://github.com/venura449/Labsheet-04.git
 LabSheet 05 : https://github.com/venura449/LabSheet-05.git     
 
 # LabSheets 2nd Year 1st SEM OOP
-LabSheets :https://github.com/venura449/Year_02_Semister_01-Tutorials-OOP-.git  
-Tutorials : 
+LabSheets :
+Tutorials : https://github.com/venura449/Year_02_Semister_01-Tutorials-OOP-.git  
 
 
 

@@ -27,7 +27,7 @@ LabSheet 05 : https://github.com/venura449/LabSheet-05.git
 LabSheets :https://github.com/venura449/Year_02_Semister_01_LabSheets.git   
 Tutorials : https://github.com/venura449/Year_02_Semister_01-Tutorials-OOP-.git    
 
-# Labsheets @nd Year 1st Sem OSSA   
+# Labsheets 2nd Year 1st Sem OSSA   
 Labsheets : https://github.com/venura449/OSSA-labsheets.git   
 
 
